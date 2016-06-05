@@ -1,0 +1,9 @@
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\bin\Debug\QuestionGenerator.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\bin\Debug\QuestionGenerator.exe
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\bin\Debug\QuestionGenerator.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.Properties.Resources.resources
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.csproj.GenerateResource.Cache
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.exe
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\QuestionGenerator\QuestionGenerator\obj\Debug\QuestionGenerator.QuestionGenerator.resources

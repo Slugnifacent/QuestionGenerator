@@ -1,0 +1,34 @@
+water water water |True
+water water water water|True
+water water water water|True
+water water water waterwa|True
+water water water ater|True
+water water  what?|water
+water water water when?|water
+water water water how?|water
+water water water why?|waterwa
+water water water where?|ater
+_____ water water |water
+water _____ water |water
+water water _____ |water
+_____ water water water|water
+water _____ water water|water
+water water _____ water|water
+water water water _____|water
+_____ water water water|water
+water _____ water water|water
+water water _____ water|water
+water water water _____|water
+_____ water water waterwa|water
+water _____ water waterwa|water
+water water _____ waterwa|water
+water water water _____|waterwa
+_____ water water ater|water
+water _____ water ater|water
+water water _____ ater|water
+water water water _____|ater
+water eats cool |False
+water eats cool in the water|False
+water eats cool in the peace|False
+water eats cool in the fire|False
+water eats cool in the ocean|False
